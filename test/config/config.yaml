@@ -1,0 +1,6 @@
+build:
+  - name: "build_linux"
+    platform: "linux"
+    generator: "auto"
+    jobs: 16
+    build_type: Debug

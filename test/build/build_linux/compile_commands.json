@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/he/My_work/test/build/build_linux",
+  "command": "/usr/lib/ccache/c++ -I/home/he/My_work/test/APP -g -std=gnu++20 -o CMakeFiles/hello.dir/APP/main.cpp.o -c /home/he/My_work/test/APP/main.cpp",
+  "file": "/home/he/My_work/test/APP/main.cpp",
+  "output": "CMakeFiles/hello.dir/APP/main.cpp.o"
+}
+]

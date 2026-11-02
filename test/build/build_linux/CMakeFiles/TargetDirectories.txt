@@ -1,0 +1,3 @@
+/home/he/My_work/test/build/build_linux/CMakeFiles/hello.dir
+/home/he/My_work/test/build/build_linux/CMakeFiles/edit_cache.dir
+/home/he/My_work/test/build/build_linux/CMakeFiles/rebuild_cache.dir
